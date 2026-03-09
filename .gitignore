@@ -1,0 +1,4 @@
+venv/
+historico.json
+__pycache__/
+*.pyc
